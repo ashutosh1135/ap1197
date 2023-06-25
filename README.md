@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ashu4Ned
-- 👀 I’m interested in development and DS
-- 🌱 I’m currently learning Data Science @ SIT
-- 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me ap4ashutosh@gmail.com
+- 👋 Hi, I’m Ashutosh
+- 👀 I’m interested in Machine learning, Deep Learning, and AI
+- 🌱 I’m currently working on Deep Learning projects
+- 💞️ I’m looking to collaborate on Python, ML, and DL projects
+- 📫 To reach me at ash4ap@gmail.com
 
 <!---
 Ashu4Ned/Ashu4Ned is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
