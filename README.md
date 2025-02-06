@@ -1,27 +1,25 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ap4ashutosh.ap4ashutosh" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ap1197.ap1197" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ashutosh!;" />
 </h1>
 
-<h3 align="center">A passionate Data Scientiest and DevOps Practitioner</h3>
+<h3 align="center">I'm a gen AI developer and interested in Agentic workflows, DeepLearning</h3>
 
 <br/>
 
 <div align="center">
 
-🔭 I’m currently working on cloud and Gen A.I.
+🔭 I’m currently working on Gen A.I, and AIOps in Blowfish Media technology.
 
-🌱 I’m currently learning **K8S advanced, Agentic workflow, Automated ML pipelines**
+🌱 I’m currently learning **Agentic workflow, Automated ML pipelines, Advanced embeddings**
 
-💬 Ask me about **ML, Cloud, DevOps, RAG... or anything [here](https://github.com/ap4ashutosh/ap4ashutosh/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about **ML, Cloud, RAG...[here](https://github.com/ap4ashutosh/ap4ashutosh/issues)**
 
  </div>
 
 <div align="center"> 
-  <a href="mailto:ap4ashutosh@gmail.com">
+  <a href="mailto:ap.ashutosh1197@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/ap4ashutosh" target="_blank">
@@ -47,7 +45,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ap4ashutosh/ap4ashutosh/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ap1197/ap1197/output/github-contribution-grid-snake.svg" />
 
 </div>
 
